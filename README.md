@@ -1,3 +1,11 @@
+## What’s hold in this repository?
+This repository will hold all the information about the Mechanics of the BCN3D Sigmax.
+As a declared Open Source organization, it's in our mission to release all the original design files to you to be able to learn, reuse and improve. Open Source not only means code, it also concerns hardware.
+
+We’ve managed to design and manufacture the BCN3D Sigmax thanks to our previous experience in the 3D printing industry, the ideas coming from the community, our engineering background and a narrow collaboration with our suppliers. Our goal is justify the decisions we took and share the know-how we acquired so far.
+
+We also provide the source files for those who want to check the core of the BCN3D Sigmax. You can consult both the CAD files and the technical drawings.
+
 For a detailed explanation about the main pillars of the mechanical design of the Sigma and Sigmax, please check the repository [BCN3D Sigma - Mechanics](https://github.com/BCN3D/BCN3DSigma-Mechanics).
 
 Regarding the Sigmax, the main objectives were:
